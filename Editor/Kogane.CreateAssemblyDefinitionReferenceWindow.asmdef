@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.CreateAssemblyDefinitionReferenceWindow",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2e3eb01beecf1244196ed180d46af066"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
