@@ -4,7 +4,11 @@ Assembly Definition Reference を作成する時のコンパイル回数を抑�
 
 ## 使い方
 
+![2022-10-01_110505](https://user-images.githubusercontent.com/6134875/193378926-fa11d2d4-6001-40a3-8eea-06f14f5c3210.png)
+
 Project ウィンドウを右クリックして「Kogane > Create Assembly Definition Reference」を選択して
+
+![2022-10-01_110555](https://user-images.githubusercontent.com/6134875/193378930-831c518e-cda6-4996-a0dc-a55cb9d99566.png)
 
 表示されたウィンドウで Assembly Definition Reference を作成することができます
 
